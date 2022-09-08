@@ -44,4 +44,4 @@ Task 16: File as input #advanced Simple shell 1.0 + Usage: simple_shell [filenam
 
 AUTHORS:
 1. Abdulkareem Ridwan Opeyemi
-2.
+2. Saheed Salawu Abiodun
